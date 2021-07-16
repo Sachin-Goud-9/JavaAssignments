@@ -12,7 +12,7 @@ public class Main {
         //Static method deal with classes hence it cannot return an object. Hence it throws an error.
 
 
-        //VariableClass vc = VariableClass.initializeString("Sachin");
-        //vc.displayStringVariable();
+        //VariableClass variableClass = VariableClass.initializeString("Sachin");
+        //variableClass.displayStringVariable();
     }
 }
